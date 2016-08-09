@@ -1,0 +1,57 @@
+#repos {
+    width: auto;
+    height: auto;
+    overflow-y: scroll;
+    padding: 20px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+ul li {
+    font-weight: bold ;
+    font-size: 18px;
+    color: #008bf0;
+    border-bottom: 0px solid #000;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
+
+ul li:hover {
+    background-color: #b6e0ff;
+    cursor: pointer;
+}
+
+ul li a {
+    color: #008bf0;
+}
+
+ul li a:visited {
+    font-weight: bold;
+    font-size: 16px;
+    color: #008bf0;
+    border-bottom: 0px solid #000;
+    padding-bottom: 3px;
+}
+
+#button {
+    border: none;
+    background-color: white;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border: 2px solid #008CBA;
+    -webkit-transition-duration: 0.4s;  
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #008bf0;
+    color: white;
+}
