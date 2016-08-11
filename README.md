@@ -2,11 +2,14 @@
 (Accessing your Github repositories in your website / blog or portal)
 
 ### Description
+
 - Languages Used: HTML / CSS / JQuery
 - Git Repo Access
 
-### Catch Me
-- Twitter: @jabhij
-- Web: www.letustweak.com
+### Catch me -
 
-Hope, it helps! ヅ
+For any query, ping me on 
+- Twitter: [@jabhij] (https://twitter.com/jabhij)
+- Web: [LetUsTweak] (http://letustweak.com)
+
+Hope, it helps!! ヅ
